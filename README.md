@@ -10,7 +10,7 @@
 - 📫 You can reach me via mail: raymond_olisa@yahoo.com / raymondolisa01@gmail.com
 
 
-[![KayLemba's github stats](https://github-readme-stats.vercel.app/api?username=dialite&show_icons=true&theme=tokyonight)](https://github.com/dialite/github-readme-stats)
+[![Raymond's github stats](https://github-readme-stats.vercel.app/api?username=dialite&show_icons=true&theme=tokyonight)](https://github.com/dialite/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dialite&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/dialite/github-readme-stats) 
 
