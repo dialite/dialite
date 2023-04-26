@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 - 😃 I’m Raymond OLISA.
-- 👀 I’m interested in developing software applications with location intelligence to solve real world problems.
-- 🌱 I’m constantly learning new programming languages inorder to gain more knowledge on Software Development and web development.
+- 👀 I’m interested in developing software applications with location intelligence to solve real-world problems.
+- 🌱 I’m constantly learning new programming languages to gain more knowledge on Software Development and web development.
 - 💞️ I’m looking to collaborate in the building of web & mobile applications with real-time functionality.
 - Open and Available for work.
-- My hobbies are watching sport, coding, reading books and playing video games.
-- Currently undergoing training to become a Full-stack web developer at Microverse inc.
+- My hobbies are watching sports, coding, reading books, and playing video games.
+- Currently undergoing training to become a Full-stack web developer at Microverse Inc.
 
 ## Contact 📫
 
