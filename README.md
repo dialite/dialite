@@ -14,7 +14,7 @@
 
 <div>
   <div>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="https://www.linkedin.com/in/raymond-olisa-775929243/" target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="https://www.linkedin.com/in/raymond-olisa/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
     &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/raymondolisa01" target="_blank">
