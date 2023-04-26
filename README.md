@@ -1,8 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Raymond Olisa</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&pause=1500&color=grey&width=600&height=70&lines=A+FULL-STACK+DEVELOPER)](https://git.io/typing-svg) <br>
+![GitHub followers](https://img.shields.io/github/followers/dialite?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/dialite?style=social) <img src="https://komarev.com/ghpvc/?username=dialite" alt="dialite" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dialite/count.svg" />
+</p>
 
 - 😃 I’m Raymond OLISA.
 - 👀 I’m interested in developing software applications with location intelligence to solve real-world problems.
-- 🌱 I’m constantly learning new programming languages to gain more knowledge on Software Development and web development.
+- 🌱 I’m constantly learning new programming languages to gain more knowledge on Software Development.
 - 💞️ I’m looking to collaborate in the building of web & mobile applications with real-time functionality.
 - Open and Available for work.
 - My hobbies are watching sports, coding, reading books, and playing video games.
@@ -26,17 +34,19 @@
 <br/>
       
 [![Raymond's github stats](https://github-readme-stats.vercel.app/api?username=dialite&show_icons=true&theme=tokyonight)](https://github.com/dialite/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dialite&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/dialite/github-readme-stats) 
 
 
-### Languages & Tools
-
-![](https://img.shields.io/badge/code-HTML-orange)
-![](https://img.shields.io/badge/code-CSS-blue)
-![](https://img.shields.io/badge/code-Javascript-green)
-![](https://img.shields.io/badge/code-Bootsrap-purple)<br>
-![](https://img.shields.io/badge/tool-ESLint-blue)
-![](https://img.shields.io/badge/tool-StyleLint-yellow)
-![](https://img.shields.io/badge/tool-Webhint-green)
-![](https://img.shields.io/badge/editor-VSCode-green)
+### Languages
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
+![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
+### Front End Development
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
+![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
+![SAAS](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
+### Back End Development
+![rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=53&color=currentColor)
+![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
