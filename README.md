@@ -31,16 +31,31 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dialite&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/dialite/github-readme-stats) 
 
 
+## Technologies 💻
+
 ### Languages
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
-![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-### Front End Development
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![SAAS](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
-### Back End Development
-![rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=53&color=currentColor)
-![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Ruby](https://img.shields.io/badge/Ruby-%23ED8B00.svg?style=for-the-badge&logo=Ruby&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### Frameworks, Platforms and Libraries
+ 
+ ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+ ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+ ![React](https://img.shields.io/badge/react-%238DD6F9.svg?style=for-the-badge&logo=react&logoColor=black)
+ ![Nodejs](https://img.shields.io/badge/nodejs-%238DD6F9.svg?style=for-the-badge&logo=nodejs&logoColor=black)
+ ![rails](https://img.shields.io/badge/rails-%238DD6F9.svg?style=for-the-badge&logo=rails&logoColor=black)
+ ![Figma](https://img.shields.io/badge/figma-%238DD6F9.svg?style=for-the-badge&logo=figma&logoColor=black)
+ ![Jest](https://img.shields.io/badge/jest-%238DD6F9.svg?style=for-the-badge&logo=jest&logoColor=black)
+ ![Rspec](https://img.shields.io/badge/rspec-%238DD6F9.svg?style=for-the-badge&logo=rspec&logoColor=black)
+
+### Databases
+   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
