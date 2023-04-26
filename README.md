@@ -8,7 +8,6 @@
   <img src="https://profile-counter.glitch.me/dialite/count.svg" />
 </p>
 
-- 😃 I’m Raymond OLISA.
 - 👀 I’m interested in developing software applications with location intelligence to solve real-world problems.
 - 🌱 I’m constantly learning new programming languages to gain more knowledge on Software Development.
 - 💞️ I’m looking to collaborate in the building of web & mobile applications with real-time functionality.
