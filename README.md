@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 😃 I’m Raymond OLISA
-- 👀 I’m interested in developing software applications with location intelligence to solve real world problems
+- 😃 I’m Raymond OLISA.
+- 👀 I’m interested in developing software applications with location intelligence to solve real world problems.
 - 🌱 I’m constantly learning new programming languages inorder to gain more knowledge on Software Development and web development.
-- 💞️ I’m looking to collaborate in the building of web & mobile applications with real-time functionality
+- 💞️ I’m looking to collaborate in the building of web & mobile applications with real-time functionality.
 - Open and Available for work.
-- My hobbies are watching sport, coding, reading books and playing video games
+- My hobbies are watching sport, coding, reading books and playing video games.
 - Currently undergoing training to become a Full-stack web developer at Microverse inc.
 
 ## Contact 📫
@@ -40,7 +40,3 @@
 ![](https://img.shields.io/badge/tool-StyleLint-yellow)
 ![](https://img.shields.io/badge/tool-Webhint-green)
 ![](https://img.shields.io/badge/editor-VSCode-green)
-<!---
-KayLembas/KayLembas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
