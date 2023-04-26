@@ -3,11 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&pause=1500&color=grey&width=600&height=70&lines=A+FULL-STACK+DEVELOPER)](https://git.io/typing-svg) <br>
 ![GitHub followers](https://img.shields.io/github/followers/dialite?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/dialite?style=social) <img src="https://komarev.com/ghpvc/?username=dialite" alt="dialite" />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dialite/count.svg" />
-</p>
-
 - 👀 I’m interested in developing software applications with location intelligence to solve real-world problems.
 - 🌱 I’m constantly learning new programming languages to gain more knowledge on Software Development.
 - 💞️ I’m looking to collaborate in the building of web & mobile applications with real-time functionality.
