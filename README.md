@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate in the building of web & mobile applications with real-time functionality.
 - Open and Available for work.
 - My hobbies are watching sports, coding, reading books, and playing video games.
-- Previously underwent a Full-stack web developement training at Microverse Inc.
+- Previously underwent Full-stack web developement training at Microverse Inc.
 
 ## Contact 📫
 
