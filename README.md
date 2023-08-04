@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Raymond Olisa</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&pause=1500&color=grey&width=600&height=70&lines=A+FULL-STACK+DEVELOPER)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+FULL-STACK+DEVELOPER++%7C+GIS+EXPERT)](https://git.io/typing-svg) <br>
 ![GitHub followers](https://img.shields.io/github/followers/dialite?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/dialite?style=social) <img src="https://komarev.com/ghpvc/?username=dialite" alt="dialite" />
 
 - 👀 I’m interested in developing software applications with location intelligence to solve real-world problems.
